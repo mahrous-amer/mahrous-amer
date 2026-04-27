@@ -36,12 +36,6 @@ compliant in fast-paced, regulated environments.
 - [**EmailSentinel**](https://github.com/mahrous-amer/EmailSentinel) — Serverless email monitoring &amp; alerting for enterprises; detects anomalies, phishing, and compliance risks in real time. `AWS Lambda · SQS · DynamoDB`
 - [**Graphical Authentication (FYP)**](https://github.com/mahrous-amer/FYP) — Web auth resistant to shoulder-surfing, brute-force, dictionary, and CSRF attacks. Published at ICITS2021 &amp; F1000Research. `Python · Django · PostgreSQL`
 
-### `{ stats }`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahrous-amer&show_icons=true&theme=gruvbox&count_private=true" alt="mahrous-amer GitHub stats" />
-</p>
-
 ---
 
 <p align="center"><sub>Built with conviction.</sub></p>
